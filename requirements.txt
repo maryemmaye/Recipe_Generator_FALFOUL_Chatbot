@@ -1,0 +1,7 @@
+huggingface_hub
+llama-cpp-python
+chromadb
+sentence-transformers
+gradio
+datasets
+python-dotenv
